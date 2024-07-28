@@ -21,7 +21,7 @@
         <!-- Celda 2,2 -->
 
             <div class="col-start-2 row-start-2 p-4">
-                <p class="text-xl italic font-bold text-justify mx-10">Utilizando el pensamiento de diseño (Design Thinking) y ambientes educativos innovadores, vamos a seguir las cinco fases del pensamiento de diseño: Esta herramienta la podemos utilizar para abordar esta problematica.</p>
+                <p class="text-sm italic font-bold text-justify mx-10">La solución propuesta se diseña con base a la teoría de pensamiento de diseño (Design Thinking) y ambientes educativos innovadores, vamos a seguir las cinco fases del pensamiento de diseño.</p>
             </div>
 
     </div>

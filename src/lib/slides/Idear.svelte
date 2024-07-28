@@ -29,7 +29,7 @@
 			<p class="text-justify  my-5 ">
                 <span class="font-bold text-green-700 text-5xl">2. Soluciones sobre papel ( Mapeo de Soluciones ): </span>
 			</p>
-            <p class="text-justify mx-20">Utilizar técnicas como el Mapa Mental, Diagrama de Espina de Pescado y analisis de pareto entre otras.</p>
+            <p class="text-justify mx-20">Priorizar las ideas mas impactantes ayudandonos con técnicas como el Mapa Mental, Diagrama de Espina de Pescado y analisis de pareto entre otras.</p>
 		</div>
 
 	</div>

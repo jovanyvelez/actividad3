@@ -5,6 +5,8 @@
     import Slide3 from '$lib/slides/Empatizar.svelte';
     import Slide4 from '$lib/slides/Definir.svelte';
     import Slide5 from '$lib/slides/Idear.svelte';
+    import Slide6 from '$lib/slides/Prototipar.svelte';
+    import Slide7 from '$lib/slides/Evaluar.svelte';
 </script>
 
 <Presentation options={{
@@ -20,6 +22,9 @@
     <Slide3 />
     <Slide4 />
     <Slide5 />
+    <Slide6 />
+    <Slide7 />
+    
   
 
 </Presentation>
