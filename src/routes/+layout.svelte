@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>Animotion</title>
+	<title>Design thinking</title>
 </svelte:head>
 
 {@render children()}
