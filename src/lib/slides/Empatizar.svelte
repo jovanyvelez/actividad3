@@ -13,7 +13,7 @@
 <Slide class="h-full place-content-center place-items-center ">
 	<p class="my-20 text-6xl text-green-700 font-semibold">Busco Información</p>
 
-	<div class="grid grid-cols-1">
+	<div class="grid grid-cols-1 mx-20">
 		<div class="flex flex-col items-start justify-start">
 			<p class="text-left text-2xl my-5">
 				<span class="font-bold text-green-700">1. Con papás y otros profes:</span> Para desde su perspectiva
