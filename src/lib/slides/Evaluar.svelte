@@ -4,11 +4,7 @@
 </script>
 
 <Slide class="h-full place-content-center place-items-center">
-	<p class=" text-8xl">Fase 5: <span class="font-bold text-green-700">Prototipar</span></p>
-</Slide>
-
-<Slide class="h-full place-content-center place-items-center">
-	<p class="text-6xl text-green-700 font-bold">Similar a los esquemas de mejora continua</p>
+	<p class=" text-8xl"><span class="font-bold text-red-600">Evaluar</span></p>
 </Slide>
 
 
@@ -20,28 +16,28 @@
 
 		<div class="flex flex-col items-start justify-start mx-20">
 			<p class="text-left  my-5 ">
-                <span class="font-bold text-green-700 text-4xl">1. Ejecuto: </span>
+                <span class="font-bold text-red-600 text-4xl">Pruebas piloto </span>
 			</p>
             <p class="text-justify  my-5 mx-20 text-3xl">
-                Implemento los prototipos en un grupo reducido de estudiantes para evaluar su efectividad y generar retroalimentación.
+                Implementar el proyecto en una clase de matemáticas, recogiendo datos sobre el entendimiento y el interés de los estudiantes.
 			</p>
 		</div>
 
 		<div class="flex flex-col items-start justify-start mx-20">
 			<p class="text-left  my-5 ">
-                <span class="font-bold text-green-700 text-4xl">2.Evaluo: </span>
+                <span class="font-bold text-red-600 text-4xl">Evaluaciones formativas: </span>
 			</p>
             <p class="text-justify  my-5 mx-20 text-3xl">
-				Hago evaluaciones formativas para proporcionar retroalimentación continua a los estudiantes y ajustar las estrategias en tiempo real.
+				Se hace retroalimentación continua y ajustar las actividades en tiempo real.
 			</p>
 		</div>
 
 		<div class="flex flex-col items-start justify-start mx-20">
 			<p class="text-left  my-5 ">
-                <span class="font-bold text-green-700 text-4xl">3. Verifico: </span>
+                <span class="font-bold text-red-600 text-4xl">Análisis de resultados </span>
 			</p>
             <p class="text-justify  my-5 mx-20 text-3xl">
-				Refino y mejoro las estrategias basadas en la retroalimentación y los resultados de las pruebas piloto.
+				Analizar los resultados de las pruebas piloto para identificar éxitos y áreas de mejora.
 			</p>
 		</div>
 

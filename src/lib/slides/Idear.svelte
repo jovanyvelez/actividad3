@@ -3,12 +3,9 @@
 </script>
 
 <Slide class="h-full place-content-center place-items-center">
-	<p class=" text-8xl">Fase 3: <span class="font-bold text-green-700">Idear</span></p>
+	<p class=" text-8xl"><span class="font-bold text-red-600">Idear</span></p>
 </Slide>
 
-<Slide class="h-full place-content-center place-items-center">
-	<p class="text-6xl text-green-700 font-bold">Puedo Apoyarme en técnicas como...</p>
-</Slide>
 
 <Slide class="h-full place-content-center place-items-center ">
 	
@@ -21,19 +18,20 @@
                 <span class="font-bold text-green-700 text-5xl">1. Lluvia de ideas ( Brainstorming ): </span>
 			</p>
             <p class="text-justify  my-5 mx-20">
-                Organizar sesiones de brainstorming con profesores, estudiantes y expertos en educación para generar ideas innovadoras que aborden los problemas identificados.
+				Generar ideas sobre cómo los conceptos matemáticos pueden aplicarse en el diseño de un jardín escolar.
 			</p>
 		</div>
 
         <div class="flex flex-col items-start justify-start mx-20">
 			<p class="text-justify  my-5 ">
-                <span class="font-bold text-green-700 text-5xl">2. Soluciones sobre papel ( Mapeo de Soluciones ): </span>
+                <span class="font-bold text-green-700 text-5xl">2. Soluciones propuestas: </span>
 			</p>
-            <p class="text-justify mx-20">Priorizar las ideas mas impactantes ayudandonos con técnicas como el Mapa Mental, Diagrama de Espina de Pescado y analisis de pareto entre otras.</p>
+            <p class="text-justify my-5 mx-20">Calcular el área y el perímetro de diferentes sitios del jardín.</p>
+			<p class="italic ml-32 text-2xl mb-2">"Usar algebra para calcular la cantidad de plantas necesarias."</p>
+			<p class="italic ml-32 text-2xl mb-2">"Usar Calculo para minimizar la cantidad de fertilizante a utilizar."</p>
+			<p class="italic ml-32 text-2xl mb-2">"Usar estadística para analizar el crecimiento y el rendimiento de las plantas"</p>
 		</div>
 
 	</div>
-
-
 
 </Slide>

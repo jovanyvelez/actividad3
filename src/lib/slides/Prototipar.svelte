@@ -3,12 +3,9 @@
 </script>
 
 <Slide class="h-full place-content-center place-items-center">
-	<p class=" text-8xl">Fase 4: <span class="font-bold text-green-700">Prototipar</span></p>
+	<p class=" text-8xl"><span class="font-bold text-red-600">Prototipar</span></p>
 </Slide>
 
-<Slide class="h-full place-content-center place-items-center">
-	<p class="text-6xl text-green-700 font-bold">Puedo Apoyarme en técnicas como...</p>
-</Slide>
 
 <Slide class="h-full place-content-center place-items-center ">
 	
@@ -18,28 +15,27 @@
 
 		<div class="flex flex-col items-start justify-start mx-20">
 			<p class="text-left  my-5 ">
-                <span class="font-bold text-green-700 text-4xl">1. Estrategias: </span>
+                <span class="font-bold text-red-600 text-4xl">Crear planos del jardin: </span>
 			</p>
             <p class="text-justify  my-5 mx-20 text-3xl">
-                Aquí desarrollamos estrategias educativas, como lecciones interactivas, juegos educativos, proyectos colaborativos y actividades prácticas.
+                utilizando software de diseño gráfico o herramientas de dibujo manual.
 			</p>
 		</div>
 
 		<div class="flex flex-col items-start justify-start mx-20">
 			<p class="text-left  my-5 ">
-                <span class="font-bold text-green-700 text-4xl">2.Tecnologías: </span>
+                <span class="font-bold text-red-600 text-4xl">Diseños de clases: </span>
 			</p>
             <p class="text-justify  my-5 mx-20 text-3xl">
-				En este punto nos obligamos a integrar herramientas tecnológicas como aplicaciones de aprendizaje, simulaciones interactivas y plataformas de tutoría virtual.
-			</p>
+				Que combinen teoría matemática con la práctica del diseño y la modelación.
 		</div>
 
 		<div class="flex flex-col items-start justify-start mx-20">
 			<p class="text-left  my-5 ">
-                <span class="font-bold text-green-700 text-4xl">3. Ambientes Educativos Innovadores: </span>
+                <span class="font-bold text-red-600 text-4xl">Otras actividades: </span>
 			</p>
             <p class="text-justify  my-5 mx-20 text-3xl">
-				Crear espacios físicos y virtuales que faciliten el aprendizaje activo, la colaboración y la experimentación.
+				Como la medición del terreno, la planificación de la disposición de las plantas y la estimación de los recursos necesarios.
 			</p>
 		</div>
 
