@@ -46,5 +46,5 @@
 </Slide>
 
 <Slide class="h-full place-content-center place-items-center ">
-	<p class="text-8xl text-green-700">Fin</p>
+	<p class="text-8xl text-red-600">Fin</p>
 </Slide>
